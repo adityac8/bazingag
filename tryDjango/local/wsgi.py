@@ -1,0 +1,1 @@
+/home/felllix/Desktop/abc/tryDjango/src/tryDjango/wsgi.py
